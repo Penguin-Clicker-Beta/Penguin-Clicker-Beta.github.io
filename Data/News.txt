@@ -1,1 +1,2 @@
-Versions should be back up but i still have to add the change logs
+Welcome to PenguinClicker Beta
+Only changelogs up to 0.2.9 avaiable
