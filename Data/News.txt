@@ -1,3 +1,1 @@
-Welcome to PenguinClicker Beta
-All 0.3 versions + lost 0.1 version avaiable
-0.2 versions coming soon!
+Some versions may not work as we are cleaning up the github
