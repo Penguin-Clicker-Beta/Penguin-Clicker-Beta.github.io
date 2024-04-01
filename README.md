@@ -1,2 +1,2 @@
 # Penguin-Clicker-Beta.github.io
-more versions soon
+New updates coming soon
