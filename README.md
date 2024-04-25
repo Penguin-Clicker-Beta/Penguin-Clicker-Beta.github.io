@@ -1,2 +1,2 @@
 # Penguin-Clicker-Beta.github.io
-New updates coming soon
+Sadly the project has been abandoned and will not be recieving new updates, see you in the next big project
